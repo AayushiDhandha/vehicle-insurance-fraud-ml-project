@@ -1,0 +1,33 @@
+# Dependencies & Package Managers
+node_modules/
+Front-end/node_modules/
+.npm/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+.venv/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Archives & Temporary zip files
+*.zip
+*.rar
+*.tar.gz
+Front-end.zip
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE & Editor folders
+.vscode/
+.idea/
